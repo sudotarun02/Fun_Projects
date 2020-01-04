@@ -43,9 +43,6 @@ class Deck(object):
 
 
 deck = Deck()
-# deck.shuffle()
-# deck.show()
-deck.draw()
-deck.draw()
-deck.draw()
+deck.shuffle()
+deck.show()
 deck.draw()
